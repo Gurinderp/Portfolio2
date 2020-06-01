@@ -99,6 +99,16 @@ img {
     width: 200px;
 }
 
+a {
+    color: black;
+    border: 1px solid;
+}
+
+embed {
+    height: 600px;
+    width: 600px;
+}
+
 .contactinfo {
     text-align: left;
     color: rgb(133, 133, 133);
@@ -142,6 +152,7 @@ img {
 .placehold {
     border-width: 10px;
 }
+
 
 #button {
     text-align: left;
